@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  background: #1e130c;
+  background: -webkit-linear-gradient(to right, #9a8478, #1e130c);
+  background: linear-gradient(to right, #9a8478, #1e130c);
+  font-family: 'Rubik Iso', cursive;
+  color: #fff;
+  box-sizing: border-box;
+}
